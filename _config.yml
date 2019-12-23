@@ -1,2 +1,4 @@
+name: Priyal's Homepage
+markdown: kramdown
 theme: jekyll-theme-hacker
 layout: default
