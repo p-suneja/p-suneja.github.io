@@ -67,6 +67,7 @@ ul.posts li {
 .right {
       width:70%;
       float:right;
+      text-align:left;
 }
 </style>
 /*new stuff*/
