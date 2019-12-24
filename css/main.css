@@ -4,12 +4,12 @@ body {
     color: #768390;
     background: #FFF;
     font-family: 'Effra', 'Helvetica', 'Sans-Serif';
-   /* padding: 0;
-    -webkit-font-smoothing: antialiased;*/
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
 }
 
 nav ul, footer ul {
-    font-family:'Effra', 'Helvetica', 'Sans-Serif';
+    /*font-family:'Effra', 'Helvetica', 'Sans-Serif';*/
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -53,12 +53,6 @@ ul.posts li {
     list-style: none;
 }
 /*new stuff*/
-
-
-
-
-
-
 
 .example-header {
   background: #3D4351;
