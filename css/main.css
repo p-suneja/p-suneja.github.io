@@ -1,5 +1,5 @@
-$primary-color: #FF6B6B;
-$primary-color-hover: scale-color($primary-color, $lightness: 32%);
+/*$primary-color: #FF6B6B;
+$primary-color-hover: scale-color($primary-color, $lightness: 32%);*/
 
 body {
     margin: 60px auto;
@@ -7,8 +7,8 @@ body {
     color: #768390;
     background: #FFF;
     font-family: 'Effra', 'Helvetica', 'Sans-Serif';
-    /*padding: 0;
-    -webkit-font-smoothing: antialiased;*/
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
 }
 
 nav ul, footer ul {
