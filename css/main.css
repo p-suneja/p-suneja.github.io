@@ -129,6 +129,7 @@ ul.posts li {
 .timeline-item {
   padding-left: 40px;
   position: relative;
+  text-align: left;
 }
 .timeline-item:last-child {
   padding-bottom: 0;
@@ -142,6 +143,7 @@ ul.posts li {
   margin: 0 0 .5em 0;
   text-transform: uppercase;
   white-space: nowrap;
+  text-align: left;
 }
 
 /*----- TIMELINE MARKER -----*/
@@ -187,6 +189,7 @@ ul.posts li {
 /*----- TIMELINE CONTENT -----*/
 .timeline-content {
   padding-bottom: 40px;
+  text-align: left;
 }
 .timeline-content p:last-child {
   margin-bottom: 0;
@@ -199,6 +202,7 @@ ul.posts li {
 }
 .period .timeline-info {
   display: none;
+  text-align: left;
 }
 .period .timeline-marker:before {
   background: transparent;
