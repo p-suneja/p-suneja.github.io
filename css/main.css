@@ -2,7 +2,7 @@ $primary-color: #FF6B6B;
 $primary-color-hover: scale-color($primary-color, $lightness: 32%);
 
 body {
-    margin: 60px auto;
+    /*margin: 60px auto;*/
     width: 70%;
     color: #768390;
     background: #FFF;
