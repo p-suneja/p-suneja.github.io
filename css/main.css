@@ -56,6 +56,19 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.container {
+      width:100%;
+}
+.left {
+      width:30%;
+      float:left;
+}
+.right {
+      width:70%;
+      float:right;
+}
+</style>
 /*new stuff*/
 
 .example-header {
