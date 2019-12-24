@@ -190,6 +190,7 @@ ul.posts li {
 }
 .timeline-content p:last-child {
   margin-bottom: 0;
+  text-align:center;
 }
 
 /*----- TIMELINE PERIOD -----*/
