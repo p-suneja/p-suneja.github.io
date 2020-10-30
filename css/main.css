@@ -1,5 +1,5 @@
-/*$primary-color: #FF6B6B;
-$primary-color-hover: scale-color($primary-color, $lightness: 32%);*/
+/*$primary-color: #4284a8;
+$primary-color-hover: #628ba1 scale-color($primary-color, $lightness: 32%);*/
 
 body {
     margin: 60px auto;
@@ -23,10 +23,10 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #628ba1;
+    color: #4284a8;
 }
 a:hover {
-    color: #ff9a9a;
+    color: #628ba1;
     text-decoration: underline;
 }
 h1, h2 {
@@ -155,7 +155,7 @@ ul.posts li {
   width: 15px;
 }
 .timeline-marker:before {
-  background: #628ba1;
+  background: #4284a8;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -183,7 +183,7 @@ ul.posts li {
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #628ba1;
+  border: 3px solid #4284a8;
 }
 
 /*----- TIMELINE CONTENT -----*/
@@ -335,8 +335,8 @@ ul.posts li {
 ----------------------------------------------*/
 .marker-outline .timeline-marker:before {
   background: transparent;
-  border-color: #628ba1;
+  border-color: #4284a8;
 }
 .marker-outline .timeline-item:hover .timeline-marker:before {
-  background: #628ba1;
+  background: #4284a8;
 }
