@@ -155,7 +155,7 @@ ul.posts li {
   width: 15px;
 }
 .timeline-marker:before {
-  background: #FF6B6B;
+  background: #628ba1;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -183,7 +183,7 @@ ul.posts li {
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #FF6B6B;
+  border: 3px solid #628ba1;
 }
 
 /*----- TIMELINE CONTENT -----*/
@@ -335,8 +335,8 @@ ul.posts li {
 ----------------------------------------------*/
 .marker-outline .timeline-marker:before {
   background: transparent;
-  border-color: #FF6B6B;
+  border-color: #628ba1;
 }
 .marker-outline .timeline-item:hover .timeline-marker:before {
-  background: #FF6B6B;
+  background: #628ba1;
 }
