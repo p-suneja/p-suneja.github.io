@@ -1,4 +1,4 @@
-/*$primary-color: #4284a8;
+/*$primary-color: #00008b;
 $primary-color-hover: #628ba1 scale-color($primary-color, $lightness: 32%);*/
 
 body {
@@ -28,7 +28,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #4284a8;
+    color: #00008b;
 }
 a:hover {
     color: #55aad9;
@@ -160,7 +160,7 @@ ul.posts li {
   width: 15px;
 }
 .timeline-marker:before {
-  background: #4284a8;
+  background: #00008b;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -188,7 +188,7 @@ ul.posts li {
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #4284a8;
+  border: 3px solid #00008b;
 }
 
 /*----- TIMELINE CONTENT -----*/
@@ -340,8 +340,8 @@ ul.posts li {
 ----------------------------------------------*/
 .marker-outline .timeline-marker:before {
   background: transparent;
-  border-color: #4284a8;
+  border-color: #00008b;
 }
 .marker-outline .timeline-item:hover .timeline-marker:before {
-  background: #4284a8;
+  background: #00008b;
 }
