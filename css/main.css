@@ -134,7 +134,6 @@ ul.posts li {
 .timeline-item {
   padding-left: 40px;
   position: relative;
-  padding-bottom: 0;
   text-align: left;
 }
 .timeline-item:last-child {
@@ -275,7 +274,6 @@ ul.posts li {
     padding: 0;
   }
   .timeline-centered .timeline-item {
-    padding-bottom: 40px;
     overflow: hidden;
   }
   .timeline-centered .timeline-marker {
