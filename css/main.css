@@ -134,6 +134,7 @@ ul.posts li {
 .timeline-item {
   padding-left: 40px;
   position: relative;
+  padding-bottom: 0;
   text-align: left;
 }
 .timeline-item:last-child {
