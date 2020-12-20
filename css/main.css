@@ -1,5 +1,5 @@
-/*$primary-color: #00008b;
-$primary-color-hover: #628ba1 scale-color($primary-color, $lightness: 32%);*/
+/*$primary-color: #0f224f;
+$primary-color-hover: #183885 */
 
 body {
     margin: 60px auto;
@@ -28,10 +28,10 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #00008b;
+    color: #0f224f;
 }
 a:hover {
-    color: #55aad9;
+    color: #183885;
     text-decoration: underline;
 }
 h1, h2 {
@@ -160,7 +160,7 @@ ul.posts li {
   width: 15px;
 }
 .timeline-marker:before {
-  background: #00008b;
+  background: #0f224f;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -188,7 +188,7 @@ ul.posts li {
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #00008b;
+  border: 3px solid #0f224f;
 }
 
 /*----- TIMELINE CONTENT -----*/
@@ -340,8 +340,8 @@ ul.posts li {
 ----------------------------------------------*/
 .marker-outline .timeline-marker:before {
   background: transparent;
-  border-color: #00008b;
+  border-color: #0f224f;
 }
 .marker-outline .timeline-item:hover .timeline-marker:before {
-  background: #00008b;
+  background: #0f224f;
 }
