@@ -97,7 +97,7 @@ ul.posts li {
 }
 
 .container-fluid .row {
-  padding: 0 0 4em 0;
+  padding: 0 0 2em 0;
 }
 .container-fluid .row:nth-child(even) {
   background: #F1F4F5;
@@ -183,7 +183,7 @@ ul.posts li {
 
 /*----- TIMELINE CONTENT -----*/
 .timeline-content {
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   text-align: left;
 }
 .timeline-content p:last-child {
