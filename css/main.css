@@ -1,5 +1,5 @@
-/*$primary-color: #4284a8;
-$primary-color-hover: #628ba1 scale-color($primary-color, $lightness: 32%);*/
+/*$primary-color: #FF6B6B;
+$primary-color-hover: scale-color($primary-color, $lightness: 32%);*/
 
 body {
     margin: 60px auto;
@@ -9,11 +9,6 @@ body {
     font-family: 'Effra', 'Helvetica', 'Sans-Serif';
     padding: 0;
     -webkit-font-smoothing: antialiased;
-}
-
-section.intro-text {
-    overflow: scroll;
-    max-height: 300px;
 }
 
 nav ul, footer ul {
@@ -28,10 +23,10 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #4284a8;
+    color: #FF6B6B;
 }
 a:hover {
-    color: #55aad9;
+    color: #ff9a9a;
     text-decoration: underline;
 }
 h1, h2 {
@@ -160,7 +155,7 @@ ul.posts li {
   width: 15px;
 }
 .timeline-marker:before {
-  background: #4284a8;
+  background: #FF6B6B;
   border: 3px solid transparent;
   border-radius: 100%;
   content: "";
@@ -188,7 +183,7 @@ ul.posts li {
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #4284a8;
+  border: 3px solid #FF6B6B;
 }
 
 /*----- TIMELINE CONTENT -----*/
@@ -340,8 +335,8 @@ ul.posts li {
 ----------------------------------------------*/
 .marker-outline .timeline-marker:before {
   background: transparent;
-  border-color: #4284a8;
+  border-color: #FF6B6B;
 }
 .marker-outline .timeline-item:hover .timeline-marker:before {
-  background: #4284a8;
+  background: #FF6B6B;
 }
